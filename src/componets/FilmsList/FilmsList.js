@@ -1,4 +1,3 @@
-import React from "react"
 import FilmsListItem from "../FilmsListItem/FilmListItem"
 import "./FilmsList.css"
 
